@@ -15,6 +15,6 @@ int main()
 =======
 	cout << MyPow(10.5, 3.7) << endl;
 >>>>>>> develop
-	system("pause");
+	
 	return 0;
 }
